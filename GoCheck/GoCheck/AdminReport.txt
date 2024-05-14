@@ -1,0 +1,13 @@
+
+
+
+		 -------------------------------------------------------------------------
+		|   Admin Report indicates the Number of Operation prformed by the Admin  |
+		 -------------------------------------------------------------------------
+		 Add opreation: 1
+		 Update Text opreation: 0
+		 Update Priority opreation: 0
+		 Update Due-Date opreation: 0
+		 Update Aspact opreation: 0
+		 Display opreation: 0
+		--------------------------------------------------------------------------
