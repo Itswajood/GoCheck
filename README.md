@@ -1,0 +1,1 @@
+GoCheck is a Java application facilitating goal achievement through daily task management.  Features include custom/template-based task lists across various life domains, comprehensive list management, and a LIFO stack (linked list) for efficient processing.  Includes an administrative interface for template management.
